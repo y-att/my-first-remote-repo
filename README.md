@@ -1,5 +1,7 @@
 # My First Remote Repo
 
+#New Modification for GIT Exercise Amazon Workspaces
+
 This is my first remote repo.
 
 It started life as a local git repository.
