@@ -1,8 +1,5 @@
 # My First Remote Repo
 
-This is the actual change I was supposed to add to the branch that went to the main instead. 
-
-I will add more so when it merges it's clear it was successful.
 
 This is my first remote repo.
 
