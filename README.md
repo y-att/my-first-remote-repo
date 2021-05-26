@@ -1,6 +1,5 @@
 # My First Remote Repo
 
-#New Modification for GIT Exercise Amazon Workspaces
 
 This is my first remote repo.
 
