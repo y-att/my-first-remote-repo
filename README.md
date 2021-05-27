@@ -1,5 +1,6 @@
 # My First Remote Repo
 
+Another edit is being made to test the SSH protocol works so that I can avoid manually authenticating every single time.
 
 This is my first remote repo.
 
